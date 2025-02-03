@@ -1,4 +1,4 @@
-### Welcome to EasyAI-Tech!
+# Welcome to CycleSync-Tech!
 
 At EasyAI-Tech, we are a team of passionate engineers committed to transforming your ideas into reality. Our expertise encompasses a diverse range of services, including:
 
@@ -7,3 +7,8 @@ At EasyAI-Tech, we are a team of passionate engineers committed to transforming 
 - **AI-Powered SaaS Project Development**: Building innovative software-as-a-service solutions that leverage the power of AI.
 
 Let us partner with you on your journey to success!
+
+# Author
+
+[Discord](https://discord.gg/TawJX4ue)
+[Email](mailto:worker.opentext@gmail.com)
