@@ -1,6 +1,6 @@
-# Welcome to CycleSync-Tech!
+# Welcome to CycleSyncLabs!
 
-At CycleSync-Tech, we are a team of passionate engineers committed to transforming your ideas into reality. Our expertise encompasses a diverse range of services, including:
+At CycleSyncLabs, we are a team of passionate engineers committed to transforming your ideas into reality. Our expertise encompasses a diverse range of services, including:
 
 - **AI Business Solutions**: Tailored strategies to enhance your business operations using cutting-edge AI technologies
 - **Multi AI Agent System**: Advanced orchestration of multiple AI agents working in harmony to solve complex business challenges
@@ -14,7 +14,7 @@ At CycleSync-Tech, we are a team of passionate engineers committed to transformi
 - Cutting-Edge Technology Integration
 - Continuous Innovation
 
-## Why Choose CycleSync-Tech?
+## Why Choose CycleSyncLabs?
 
 - Expert Team with Deep Technical Knowledge
 - Proven Track Record of Success
