@@ -29,5 +29,5 @@ Ready to transform your business with AI? Reach out to our team today to discuss
 
 [Github](https://github.com/bigdata5911)
 [Telegram](https://t.me/bigdata5911)
-[Discord](https://discord.gg/TawJX4ue)
+[Discord](https://discord.gg/pSEtb9sJf6)
 [Email](mailto:worker.opentext@gmail.com)
