@@ -27,7 +27,6 @@ Let us partner with you on your journey to success!
 
 Ready to transform your business with AI? Reach out to our team today to discuss your project needs and discover how we can help you achieve your goals.
 
-[Github](https://github.com/bigdata5911)
 [Telegram](https://t.me/bigdata5911)
 [Discord](https://discord.gg/pSEtb9sJf6)
-[Email](mailto:worker.opentext@gmail.com)
+[Email](mailto:cyclesynai@gmail.com)
